@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "cSpell.words": ["stylelint"],
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.showExpandedAbbreviation": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "jsx-sublime-babel-tags": "javascriptreact",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "editor.fontLigatures": true
+}
